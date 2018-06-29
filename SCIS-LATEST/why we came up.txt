@@ -1,0 +1,8 @@
+naisip naming gumawa ng site ng SCIS sa mga dahilang wala pang site na nagbibigay impormasyon kung ano ang SCIS at kung ano pa ang mga maiooffer nitong mga program para sa mga nais mag aral dito at ang checklist ng ibat ibang course na kailangang kunin para matapos ang 4 year course. Merun ding ibat ibat listahan ng mga maaring trabaho sa hinaharap pagkatapos ng pag aaral. 
+
+What we used:km 
+	Bootstrap 3.3.7
+	HTML
+	CSS
+	JavaScript
+	
